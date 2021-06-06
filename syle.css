@@ -1,0 +1,238 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+#left{
+    display: inline-block;
+    height: 5rem;
+    width: 8rem;
+    margin-top: 2rem;
+    margin-left: 13rem;
+}
+
+
+
+#left img{
+    height: 4rem;
+}
+
+#right{
+    font-family: 'Baloo Bhai 2', cursive;
+    height: 6rem;
+    width: 45rem;
+    float: right;
+    margin-top: 12px;
+}
+
+ul li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    float: left;
+    padding: 17px;
+    color: black;
+}
+
+ul{
+    margin-top: 14 px;
+margin-left: 7rem;
+}
+
+ul li a:hover{
+    text-decoration: none;
+    color: rgb(105, 108, 124);
+}
+
+#li2{
+    margin-right: 20px;
+    margin-top: 1rem;
+}
+.mt-3{
+    max-width: 111rem;
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px
+}
+
+
+.carousel-item{
+    width: 100%;
+    height: 30rem;
+}
+
+#container1{
+    background-color: #4e4e59;
+    height: 10rem;
+
+}
+
+#text{
+    background-color: #4e4e59;
+    color: white;
+    height: 6rem;
+    width: 30rem;
+    position: relative;
+    top: 2rem;
+    left: 16rem;
+    text-align: justify;
+    font-size: 24px;
+    line-height: 27px;
+}
+
+.btn{
+    background-color: wheat;
+    position: relative;
+    bottom: 3rem;
+    left: 53rem;
+}
+
+input{
+    width: 11rem;
+    height: 32px;
+    
+}
+#container2{
+    height: 27rem;
+}
+#item1{
+    box-sizing: border-box;
+    height: 21rem;
+    width: 18rem;
+    position: relative;
+    display: inline-block;
+    left: 13rem;
+    top: 3rem;
+    text-align: center;
+}
+#item2{
+    box-sizing: border-box;
+    height: 21rem;
+    width: 18rem;
+    position: relative;
+    display: inline-block;
+    left: 16rem;
+    top: 53px;
+    text-align: center;
+}
+#item3{
+    box-sizing: border-box;
+    height: 21rem;
+    width: 18rem;
+    position: relative;
+    display: inline-block;
+    left: 19rem;
+    top: 9px;
+    text-align: center;
+
+}
+.hp{
+    display: inline-block;
+}
+
+#container3{
+    height: 20rem;
+    background-color: #72a6e6;
+    
+}
+
+#box1{
+    height: 15rem;
+background-color: #72a6e6;
+width: 16rem;
+position: relative;
+display: inline-block;
+top: 3rem;
+left: 19rem;
+text-align: center;
+}
+
+#box2{
+    height: 15rem;
+width: 16rem;
+background-color: #72a6e6;
+position: relative;
+display: inline-block;
+bottom: 3rem;
+left: 20rem;
+text-align: center;
+}
+
+#box3{
+    height: 15rem;
+width: 16rem;
+background-color: #72a6e6;
+position: relative;
+display: inline-block;
+bottom: 48px;
+left: 21rem;
+text-align: center;
+}
+
+#container4{
+    height: 6rem;
+    text-align: center;
+    background-color: #161d31;
+    color: white;
+}
+#center{
+    position: relative;
+    top: 2rem;
+}
+
+#container5{
+    height: 20rem;
+    background-color: #2e3e51;
+}
+#team1{
+    background-color: #2e3e51;
+width: 25rem;
+display: inline-block;
+position: relative;
+height: 17rem;
+bottom: 13px;
+left: 15rem;
+font-size: 15px;
+
+}
+#team2{
+    background-color: #2e3e51;
+width: 16rem;
+display: inline-block;
+position: relative;
+height: 17rem;
+top: 2rem;
+left: 16rem;
+font-size: 15px;
+}
+#team3{
+    background-color: #2e3e51;
+    width: 16rem;
+    display: inline-block;
+    position: relative;
+    height: 17rem;
+    bottom: 52px;
+    left: 17rem;
+    font-size: 15px;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+    
+} 
+h5{
+    color: #b7e0f4;
+}
+.shade{
+    color: #b3bfc5;
+}
+.link:hover {
+    color: rgb(148, 151, 170);
+    text-decoration: none;
+}
